@@ -2,7 +2,8 @@
 
 int main(void) {
 	
-	puts("hello ETR!!\n");
-
+	puts("hello ETR!!");
+	puts("hello ETR!!");
+	
 	return 0;
 }
